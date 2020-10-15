@@ -1,2 +1,4 @@
 github.com/gorilla/mux v1.8.0 h1:i40aqfkR1h2SlN9hojwV5ZA91wcXFOvkdNIeFDP5koI=
 github.com/gorilla/mux v1.8.0/go.mod h1:DVbg23sWSpFRCP0SfiEN6jmj59UnW/n46BH5rLB71So=
+github.com/saifudienrosyid/microservice v0.0.0-20201015025354-ed2186fc34f0 h1:UMR90tD8BF8GQgVt+J9ttzorVMMm9XkTYLmmimYpnGo=
+github.com/saifudienrosyid/microservice v0.0.0-20201015025354-ed2186fc34f0/go.mod h1:Kaicj99ewcPrguRnAor6uQhq/nalLkmxBX3UEBpyGsw=
